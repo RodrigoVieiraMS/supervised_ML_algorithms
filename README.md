@@ -1,9 +1,5 @@
-# Projeto IA – AV2: Classificação e Regressão (kNN, Bayes, Regressão Linear)
-
-Universidade de Fortaleza – UNIFOR · Inteligência Artificial Computacional · Profa. Dra. Cynthia Moreira Maia
-
+ Classificação e Regressão (kNN, Bayes, Regressão Linear)
 **Datasets (OpenML):** classificação = **Melbourne Airbnb** (`price_label`) · regressão = **Sberbank Russian Housing Market** (`price_doc`).
-**Prazos:** slides no AVA até **14/10/2026** · apresentação em **15/10/2026**.
 
 ---
 
