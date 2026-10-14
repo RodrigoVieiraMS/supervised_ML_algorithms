@@ -20,7 +20,7 @@ Não usa scikit-learn nem pandas (regra do PDF): leitor de ARFF, tratamento dos 
 ```
 projeto_ia_av2/
 ├── main.py          # TODO o código (CONFIG, dados, folds, métricas, algoritmos, tabelas)
-├── README.md        # este arquivo (uso + slides)
+├── README.md        # este arquivo 
 ├── resultados.md    # gerado ao rodar (tabelas e análise)
 └── data/            # coloque aqui os 2 datasets
 ```
